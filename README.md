@@ -266,3 +266,7 @@ Check the **[netdata wiki](https://github.com/firehol/netdata/wiki)**.
 netdata is GPLv3+.
 
 It re-distributes other open-source tools and libraries. Please check its [License Statement](https://github.com/firehol/netdata/blob/master/LICENSE.md).
+
+## PS
+
+I'm going to add some comments. :joy:
